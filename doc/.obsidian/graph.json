@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "readme",
+      "color": {
+        "a": 1,
+        "rgb": 10879175
+      }
+    },
+    {
+      "query": "file:2-quick",
+      "color": {
+        "a": 1,
+        "rgb": 6947161
+      }
+    },
+    {
+      "query": "path:consept",
+      "color": {
+        "a": 1,
+        "rgb": 3211575
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.688235294117647,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.1961169353104482,
+  "close": false
+}

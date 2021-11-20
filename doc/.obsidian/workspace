@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4a0a89b819d9d727",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ef09e4e6e4bd83",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "641fad80c4738019",
+    "type": "split",
+    "children": [
+      {
+        "id": "3611386d88964bfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d92d3162f73b0fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "769b86227247f831",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6ee2eb7cd1f73b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f460645b2f6c070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ceb3d56c3b7a26c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5ef09e4e6e4bd83",
+  "lastOpenFiles": [
+    "consept/5-mutation.md",
+    "consept/4-resolver.md",
+    "consept/3-type.md",
+    "2-quick start.md",
+    "1-readme.md",
+    "6-subscription.md",
+    "3-type.md",
+    "5-mutation.md",
+    "4-resolver.md"
+  ]
+}

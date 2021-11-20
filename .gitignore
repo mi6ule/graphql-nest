@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+/code/code-first/dist
+/code/code-first/node_modules
+/code/code-first/package-lock.json
+/code/code-first/yarn.lock
+/code/schema-first/dist
+/code/schema-first/node_modules
+/code/schema-first/package-lock.json
+/code/schema-first/yarn.lock
